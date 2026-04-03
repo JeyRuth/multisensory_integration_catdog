@@ -3,7 +3,7 @@ This repository contains the code developed for my M1 research project on multis
 
 ### Image and sound processing<br />
 Photos of cats and dogs have been properly aligned to a frontal view. Faces were extracted, symmetrized, and converted to grayscale.<br />
-The audio clips were selected and processed to produce uniform meowing or barking sequences, each lasting 500 ms.
+Audio clips were selected and processed to produce uniform meowing or barking sequences, each lasting 500 ms.
 
 
 **Credits for cats:** <br />
