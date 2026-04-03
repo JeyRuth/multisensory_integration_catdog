@@ -1,8 +1,14 @@
 # Cats and Dogs stimuli for multisensory integration
 This repository contains the code developed for my M1 research project on multisensory integration. The project investigates how different sensory modalities are weighted during perceptual discrimination, using cat and dog stimuli. Data and code related to the experimental protocol will be shared here as it becomes available.
 
-### Image processing
+### Image and sound processing
 Photos of cats and dogs have been properly aligned to a frontal view. Faces were extracted, symmetrized, and converted to grayscale.
+The audio clips were selected and processed to produce uniform meowing or barking sequences, each lasting 500 ms.
+
+\begin{list_type}
+   \item Photos of cats and dogs have been properly aligned to a frontal view. Faces were extracted, symmetrized, and converted to grayscale.
+   \item The audio clips were selected and processed to produce uniform meowing or barking sequences, each lasting 500 ms.
+\end{list_type}
 
 **Credits for cats:** <br />
 01_rana-sawalha-X7UR0BDz-UY-unsplash <br />
@@ -19,3 +25,6 @@ Photos of cats and dogs have been properly aligned to a frontal view. Faces were
 04_lukasz-rawa-cGzwHEcTVQA-unsplash <br />
 05_steven-wei-bPciBETIlkw-unsplash <br />
 06_mtsjrdl-XENc1RpQn1w-unsplash <br />
+
+**Credits for sounds:** <br />
+Meowing and barking sounds have been extracted from a Kaggle Dataset named "Audio Cats and Dogs". 
