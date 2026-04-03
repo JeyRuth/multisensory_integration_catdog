@@ -3,7 +3,7 @@ This repository contains the code developed for my M1 research project on multis
 
 **Credits for cats:**
 01_rana-sawalha-X7UR0BDz-UY-unsplash
-02_julia-kutsenko-_xpw7Ojysto-unsplash
+/n02_julia-kutsenko-_xpw7Ojysto-unsplash
 03_dimitry-kooijmans-2eRHP71tkRY-unsplash
 04_maxim-mushnikov-sUJQVvFhVSY-unsplash
 05_olivllr-wang-m7KXUMedbv0-unsplash
