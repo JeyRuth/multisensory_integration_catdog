@@ -1,6 +1,8 @@
 # Cats and Dogs stimuli for multisensory integration
 The project investigates how different sensory modalities are weighted during perceptual discrimination, using cat and dog stimuli. Data related to the experimental protocol will be shared here.
 
+![aperçu.png](https://github.com/JeyRuth/multisensory_integration_catdog/blob/54d1e26723b2765a8912a020ea2e5b456741b243/aper%C3%A7u.png?raw+true)
+
 ### Image and sound processing<br />
 Photos of cats and dogs have been properly aligned to a frontal view. Faces were extracted, symmetrized, and converted to grayscale.<br />
 Audio clips were selected and processed to produce uniform meowing or barking sequences, each lasting 500 ms.
